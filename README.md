@@ -1,5 +1,5 @@
 # Scleaner-
- 1 cleaner for every tem file
+ 1 cleaner for every temp file
  
  Please like and Subscribe to my channel its free pleaseeeee
  https://www.youtube.com/channel/UCyKL8OsqbPhBnEJrgenAmug
