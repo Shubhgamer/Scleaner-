@@ -25,4 +25,5 @@ deltree /y c:\windows\spool\printers
 del c:\WIN386.SWP
 cls 
 
-Thank you bye.
+Thank you bye,
+"IT IS NOT A VIRUS".
